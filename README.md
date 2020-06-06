@@ -1,10 +1,10 @@
-# Introduction 
-Mirror of https://github.com/jstpcs/lnxpcs as it is going down soon.
+# Introducción
+Mirror de https://github.com/jstpcs/lnxpcs esto por que se retirar pronto.
 
-# License
+# Licencia
 
-all images are distributed under idgaf license. it means that you can use provided 
-designs for any noncommercial purposes like creation of handout materials for conferences 
-and meet-ups, printing wall posters for home and office and so on, but if you 
-violate the license we will most probably do nothing, because we don't 
-give a fuck.
+Todas las imágenes se distribuyen bajo licencia idgaf. 
+Significa que puedes usar los diseños provistos para cualquier propósito no comercial, 
+como la creación de materiales para conferencias y reuniones, 
+imprimir carteles de pared para el hogar y la oficina, etc., 
+pero si viola la licencia, probablemente no haremos nada, porque no nos importa un cachuate.
